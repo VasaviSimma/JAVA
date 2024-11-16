@@ -1,3 +1,3 @@
 # JAVA
 
-This repo will contain all the Java concepts.
+This repo contains all the Java concepts.
